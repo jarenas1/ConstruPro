@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": "205d",
+      "name": "JUAN ARENAS",
+      "username": "JARENAS1",
+      "email": "karen@gmail.com",
+      "password": "111111111",
+      "role": "admin"
+    },
+    {
+      "id": "4ef0",
+      "name": "JUAN ARENAS",
+      "username": "JARENAS1",
+      "email": "karen@gmail.com1",
+      "password": "123456789",
+      "role": "admin"
+    },
+    {
+      "id": "1bba",
+      "name": "PEDRO",
+      "username": "JARENAS1",
+      "email": "nar@example.com",
+      "password": "111111111",
+      "role": "admin"
+    },
+    {
+      "id": "3c60",
+      "name": "JUAN ARENAS",
+      "username": "jarenas1",
+      "email": "karen@gmail.com123",
+      "password": "123456789",
+      "role": "admin"
+    },
+    {
+      "id": "fc16",
+      "name": "PEDRO",
+      "username": "jarenas132",
+      "email": "cuentadeplay2468@gmail.com",
+      "password": "123456789",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "6530",
+      "name": "BOTAS",
+      "image": "https://www.bataindustrials.com.co/wp-content/uploads/2020/11/804600CM-450x450.jpg",
+      "price": "250.000",
+      "units": "100",
+      "description": "poororoorororororororrrrrrrrrrrrrr",
+      "type": "calzado",
+      "enabled": true
+    },
+    {
+      "name": "ARGOS 50KG",
+      "image": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/13846/w=1036,h=832,f=webp,fit=contain,q=85",
+      "price": "100000",
+      "units": "120",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "type": "CEMENTO",
+      "enabled": true,
+      "id": "6db9"
+    },
+    {
+      "name": "YESO 5 KG",
+      "image": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/74471/w=1036,h=832,f=webp,fit=contain,q=85",
+      "price": "15000",
+      "units": "200",
+      "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "type": "YESO",
+      "enabled": true,
+      "id": "ed3c"
+    }
+  ]
+}
